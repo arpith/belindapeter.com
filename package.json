@@ -1,0 +1,23 @@
+{
+  "name": "belindapeter.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpith/belindapeter.com.git"
+  },
+  "author": "Arpith Siromoney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpith/belindapeter.com/issues"
+  },
+  "homepage": "https://github.com/arpith/belindapeter.com#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
